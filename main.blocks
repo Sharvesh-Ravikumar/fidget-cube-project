@@ -1,4 +1,10 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="`-d;J#L%_0BLuM4ECu~H" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="SPjZa+4b5W846y/lG;=:"><field name="i">IconNames.StickFigure</field></block></statement></block><block type="device_forever" id="HL*oVGLCvvP.#R@%^raV" x="225" y="20"></block><block type="device_button_event" id="*nC2v$_E_o$nEfm)!U?B" x="366" y="163"><field name="NAME">Button.B</field></block><block type="device_button_event" id="M.KPxqg,YBWs4QXc|_DE" x="56" y="222"><field name="NAME">Button.A</field></block><block type="device_button_event" id="E3Aya:T/1HCcW|#yCDr@" x="639" y="275"><field name="NAME">Button.AB</field></block><block type="input_logo_event" id="[+P3c`]#;bbaV8bPO[yZ" x="406" y="379"><field name="action">TouchButtonEvent.Touched</field><statement name="HANDLER"><block type="device_show_leds" id="#wK}oFL+gnCfSx-:O?{i"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="`-d;J#L%_0BLuM4ECu~H" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="SPjZa+4b5W846y/lG;=:"><field name="i">IconNames.StickFigure</field></block></statement></block><block type="device_forever" id="HL*oVGLCvvP.#R@%^raV" x="205" y="0"></block><block type="device_button_event" id="*nC2v$_E_o$nEfm)!U?B" x="375" y="75"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="O=ywN#=.oqDafV[q),+["><field name="LEDS">`
+        . # # # . 
+        # . . # . 
+        # . . # . 
+        . . . . . 
+        . . . # .
+        `</field></block></statement></block><block type="device_button_event" id="M.KPxqg,YBWs4QXc|_DE" x="36" y="202"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="%{JH@+j_um?r6siUN2am"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_button_event" id="E3Aya:T/1HCcW|#yCDr@" x="619" y="255"><field name="NAME">Button.AB</field></block><block type="device_gesture_event" id="8nZC#6V^q4dI3,M-vQ*H" x="96" y="394"><field name="NAME">Gesture.Shake</field></block><block type="input_logo_event" id="[+P3c`]#;bbaV8bPO[yZ" x="394" y="422"><field name="action">TouchButtonEvent.Touched</field><statement name="HANDLER"><block type="device_show_leds" id="#wK}oFL+gnCfSx-:O?{i"><field name="LEDS">`
         . # # # . 
         # . . . # 
         # . . . # 
@@ -118,4 +124,4 @@
         . . # . . 
         . . # . . 
         . . # . .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="8nZC#6V^q4dI3,M-vQ*H" x="116" y="414"><field name="NAME">Gesture.Shake</field></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
